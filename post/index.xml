@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://sarukyaputen.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Mar 2022 19:36:28 +0800</lastBuildDate><atom:link href="https://sarukyaputen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog2</title>
+      <link>https://sarukyaputen.github.io/post/blog2/</link>
+      <pubDate>Thu, 31 Mar 2022 19:36:28 +0800</pubDate>
+      
+      <guid>https://sarukyaputen.github.io/post/blog2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A7重劃區</title>
+      <link>https://sarukyaputen.github.io/post/blog/</link>
+      <pubDate>Thu, 31 Mar 2022 17:31:50 +0800</pubDate>
+      
+      <guid>https://sarukyaputen.github.io/post/blog/</guid>
+      <description>This is an tag ```python 這邊是程式碼 def index() print() ```   Item 1 Item 2  Item 2a Item 2b    This is an tag This is an tag  本篇將教大家如何將 LINE Bot 一鍵自動部署到 Heroku。本篇所使用的程式範例 code 都放置於 GitHub – hsuanchi/Flask-LINE-Bot-Heroku 上，有興趣歡迎給星和 git clone 客製成自己的 LINE Bot 唷！ **99=
+ This is a complete item This is an incomplete item  Channel secret Channel access token
+文章目錄 一. 自動部署 Heroku 二.</description>
+    </item>
+    
+  </channel>
+</rss>
